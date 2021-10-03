@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maximinus
 - 👀 I’m interested in Grateful Dead, Strategy games, Philosophy, Economics and playing music.
 - 🌱 I’m currently learning Nim, have to keep up with new languages.
-- 💞️ I’m looking to collaborate on machine learning for Grateful Dead audio.
+- 💞️ I’m looking to collaborate on machine learning for Grateful Dead audio, or Godot games.
 - 📫 How to reach me: email at maximinus@gmail.com
 
 <!---
